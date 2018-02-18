@@ -1,6 +1,6 @@
   header {
     background-image: url("../img/assets/backgrounds/landing.jpg");
-    height: 90vh
+    height: 85vh
   }
 
   img {
@@ -18,29 +18,14 @@
 
   table {
     float: right;
-    width: 25%
+    width: 20%
   }
 
-  .btn {
-    height: 25vh;
-    line-height: 40px;
-    box-sizing: border-box;
-    box-sizing: padding-box;
-    box-sizing: content-box;
+  article p {
+    float: right;
+    font-size: 100%
   }
 
-  .tables {
-    float: left;
-  }
-
-  h1 {
-    text-align: right;
-  }
-
-  h5 {
-    text-align: right;
-  }
-
-  .section {
-    float: center;
+  footer {
+    background-image: url("../img/assets/backgrounds/foodsBg.jpg");
   }
