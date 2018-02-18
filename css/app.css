@@ -1,0 +1,13 @@
+  header {
+    background-image: url("../  img/assets/backgrounds/landing.jpg");
+    height: 90vh text-align:center;
+  }
+
+  img {
+    float: center;
+  }
+
+  header p {
+    color: white;
+    font-size: 200%;
+  }

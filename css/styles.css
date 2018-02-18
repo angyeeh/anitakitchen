@@ -1,0 +1,46 @@
+  header {
+    background-image: url("../img/assets/backgrounds/landing.jpg");
+    height: 90vh
+  }
+
+  img {
+    float: center;
+  }
+
+  header p {
+    color: white;
+    font-size: 200%;
+  }
+
+  header {
+    text-align: center;
+  }
+
+  table {
+    float: right;
+    width: 25%
+  }
+
+  .btn {
+    height: 25vh;
+    line-height: 40px;
+    box-sizing: border-box;
+    box-sizing: padding-box;
+    box-sizing: content-box;
+  }
+
+  .tables {
+    float: left;
+  }
+
+  h1 {
+    text-align: right;
+  }
+
+  h5 {
+    text-align: right;
+  }
+
+  .section {
+    float: center;
+  }
