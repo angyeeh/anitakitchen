@@ -27,5 +27,27 @@
   }
 
   footer {
-    background-image: url("../img/assets/backgrounds/foodsBg.jpg");
+    image: url("../img/assets/backgrounds/foodsBg.jpg");
+  }
+
+  .happyhour {
+    height: 105px;
+    width: 350px;
+    background-color: #e0e0d1;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+  }
+
+  .partytime {
+    height: 350px;
+    width: 105px;
+    background-color: #ff3300;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+  }
+
+  .icon-pos {
+    margin-left: 42%
   }
