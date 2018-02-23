@@ -1,6 +1,6 @@
   header {
     background-image: url("../img/assets/backgrounds/landing.jpg");
-    height: 85vh
+    height: 85vh;
   }
 
   img {
@@ -26,28 +26,20 @@
     font-size: 100%
   }
 
-  footer {
-    image: url("../img/assets/backgrounds/foodsBg.jpg");
+  main {
+    padding-left: 0;
+    margin-left: 10%;
+    padding-top: 1%;
+    width: 100%;
+    font-size: 15px;
   }
 
-  .happyhour {
-    height: 105px;
-    width: 350px;
-    background-color: #e0e0d1;
-    justify-content: center;
-    display: flex;
+  .container {
+    background-image: url("../img/assets/backgrounds/foodsBg.jpg");
+    height: 300px;
     align-items: center;
   }
 
-  .partytime {
-    height: 350px;
-    width: 105px;
-    background-color: #ff3300;
-    justify-content: center;
-    display: flex;
-    align-items: center;
-  }
-
-  .icon-pos {
-    margin-left: 42%
+  #id happyhour {
+    background-color: white;
   }
