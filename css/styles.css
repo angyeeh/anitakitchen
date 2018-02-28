@@ -37,9 +37,32 @@
   .container {
     background-image: url("../img/assets/backgrounds/foodsBg.jpg");
     height: 300px;
-    align-items: center;
+    image-orientation: center;
   }
 
-  #id happyhour {
+  .option {
     background-color: white;
+    float: left;
+  }
+
+  .minitop {
+    background-color: #C9DCC7;
+    padding: 40px;
+  }
+
+  .minibottom {
+    background-color: #F13106;
+    padding: 40px;
+  }
+
+  .breakfast {
+    background-image: url("../img/assets/foodtop/breakfast.jpg");
+  }
+
+  .lunch {
+    background-image: url("../img/assets/foodtop/lunch.jpg");
+  }
+
+  .dinner {
+    background-image: url("../img/assets/foodtop/dinner.jpg");
   }
